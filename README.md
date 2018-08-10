@@ -29,6 +29,8 @@ fluids to maintain hydration due to reduced kidney function.
   - SD card holder
   - Additionally, the shield board is automatically level shifted for 5V Arduino and works with 3.3V Parallax Propeller ASC+ 
   
+  https://www.matrixorbital.com/accessories/interface-module/eve2-shield
+  
   Support Forums
   
   http://www.lcdforums.com/forums/viewforum.php?f=45
