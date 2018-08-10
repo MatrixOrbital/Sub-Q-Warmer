@@ -11,6 +11,10 @@ fluids to maintain hydration due to reduced kidney function.
 
   https://www.matrixorbital.com/ftdi-eve
 
+- Display used is a EVE2-38A 1U SPI TFT
+
+  https://www.matrixorbital.com/ftdi-eve/EVE%20FT812/eve2-38a
+
 - This code makes use of the Matrix Orbital EVE2 Library found here: 
 
   https://github.com/MatrixOrbital/EVE2-Library
